@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3l0123/chant/v1/juan/1
 seq: 1
-front:
+body:
   text: 博物志序地理略自魏氏目已前夏禹治四方而制之余視山海經及禹貢爾雅説文地志雖曰悉備各有所不載者作略説出所不見粗言遠方陳山川位象吉凶有徵諸國境界犬牙相入春秋之後並相侵伐其土地不可具詳其山川地澤略而言之正國十二博物之士覽而鑒焉
   hash: sha256:14afbd8951d6d1a24d454735a1222dfbbfb421fd66f0b34f19d830158fff4d43
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3l0123_CHANT_001-1a.1-h}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 博物誌十卷
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3l0123.xml
-hash: sha256:523908f0d2669428b18550cdac4220d914b4cea090f03cb2bf79ae3c544b8f79
+hash: sha256:ae7b2b2a6ab892424b388cd0dce14f43d4045801727295d332d58305e70dbf1b
